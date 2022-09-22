@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: #fff5ee;
+    margin: auto;
+    padding: 5px;
+    width: 50%;
+}
+
+body p {
+    padding: 10px;
+    margin: auto;
+}
+
+body a:link, a:visited {
+    text-decoration: none;
+    color: #ecd3b5;
+}
+
+body a:hover, a:active {
+    color: #aaeeeb;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+figcaption {
+    font-size: 70%;
+    text-align: right;
+}
+
+#photocred a {
+    text-decoration: none;
+}
